@@ -1,15 +1,12 @@
 # Big-Domty
-
-![Screenshot from 2023-05-20 21-50-07](https://github.com/ahmedihabb2/Big-Domty/assets/57008633/2690779c-a718-40a3-90b9-7c8e7d041c0c)
-
+![Screenshot from 2023-05-20 21-50-07](https://github.com/ahmedihabb2/Big-Domty/assets/57008633/c2cdea1c-8079-4469-86b3-36cefd1191cc)
 
 **Big Domty** is a powerful code developed for conducting comprehensive player analysis within the context of FIFA 22, the popular football simulation video game. This code utilizes advanced data processing and statistical techniques to extract valuable insights and provide meaningful information about individual players.
 
 Also **Big Domty** harnesses the power of PySpark, a Python library for distributed data processing, to efficiently handle large-scale player data analysis. By leveraging the distributed computing capabilities of Spark, the code is able to process vast amounts of player data in a parallel and scalable manner.
 
 ## Pipeline
-
-![Screenshot from 2023-05-20 21-51-14](https://github.com/ahmedihabb2/Big-Domty/assets/57008633/4973207c-7ae4-4395-8e1e-a22e182ef20f)
+![Screenshot from 2023-05-20 21-51-14](https://github.com/ahmedihabb2/Big-Domty/assets/57008633/0ebacf57-8b42-4bd0-b69e-14d48071b1bc)
 
 ## Data Preprocessing
 - Drop any unneeded column from the data such as ids and any column with urls.
